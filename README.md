@@ -36,7 +36,9 @@ or as an ML dataset.
 NOTE:
 
 => Applicaiton still consists of small bugs that need to be cleaned
+
 => Do not leave the MainPath and ToSave textField Empty and press Extract Button, it would simply crah,
+
 =>For now, The Application only saves the file in csv format, so you will have to specify the .csv extension while choosing the SaveTo path
 example:(c:\..\...\...\example.csv)
 
