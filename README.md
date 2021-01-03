@@ -33,6 +33,10 @@ newly extracted dataset for a single company,
 The resulting-dataset/ Extracted Dataset  would be a loot easy to work with while data-Visualization tasks 
 or as an ML dataset. 
 
+NOTE:
+=> Applicaiton still consists of small bugs that need to be cleaned
+=> Do not leave the MainPath and ToSave textField Empty and press Extract Button, it would simply crah,
+
 Images of Working Application:
 
 MainWindow :
